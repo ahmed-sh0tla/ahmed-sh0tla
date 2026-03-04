@@ -61,7 +61,7 @@
 <div width="100%" align="center">
  <p align="left">
   <a href="https://github.com/ahmed-sh0tla/mycafesystem" title="mycafesystem">
-    <img height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=ahmed-sh0tla&repo=mycafesystem&theme=react&border_color=61dafb&border_radius=10">
+    <img height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=ahmed-sh0tla&repo=mycafesystem&theme=gruvbox&border_color=8B4513&border_radius=10">
   </a>
 </p>
 </div>
