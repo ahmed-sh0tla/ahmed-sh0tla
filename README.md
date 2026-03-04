@@ -40,47 +40,21 @@
 <hr>
 <h2 align="center">🔥 Languages & Frameworks & Tools & Abilities 🔥</h2>
 <br>
-<p align="center">
-  <code>
-  <img title="Python" height="25"
-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"></code>
-  <code>
-  <img title="JavaScript" height="25"
-  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
-</code>
-  <code><img title="HTML5" height="25"
-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"></code>
-
-<code><img title="CSS" height="25"
-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"></code>
-
-<code><img title="SASS" height="25"
-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg"></code>
-
-<code><img title="React" height="25"
-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"></code>
-
-<code><img title="Git" height="25"
-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"></code>
-
-<code><img title="PostgreSQL" height="25"
-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg"></code>
-
-<code><img title="Visual Studio Code" height="25"
-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"></code>
-
-<code><img title="JSON" height="25"
-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/json/json-original.svg"></code>
-
-<code><img title="GitHub" height="25"
-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"></code>
-
-<code><img title="MySQL" height="25"
-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"></code>
-
-<code><img title="PHP" height="25"
-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg"></code>
-</p>
+<div style="display: flex; justify-content: center; gap: 10px; flex-wrap: wrap; align-items: center;">
+  <img title="Python" height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
+  <img title="JavaScript" height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
+  <img title="HTML5" height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
+  <img title="CSS" height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
+  <img title="SASS" height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg">
+  <img title="React" height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
+  <img title="Git" height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
+  <img title="PostgreSQL" height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg">
+  <img title="Visual Studio Code" height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
+  <img title="JSON" height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/json/json-original.svg">
+  <img title="GitHub" height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg">
+  <img title="MySQL" height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
+  <img title="PHP" height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg">
+</div>
 <hr>
 
 <h2 align="center">⚡ Stats ⚡</h2>
