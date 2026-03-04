@@ -52,7 +52,7 @@
   <img title="GitHub" height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg">
   <img title="MySQL" height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
   <img title="PHP" height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg">
-  <img title="Odoo" height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/odoo/odoo-original.svg">
+  <img title="Odoo" height="25" src="https://upload.wikimedia.org/wikipedia/commons/5/50/Odoo_logo.svg">
 </div>
 
 <h2 align="center">👨‍💻 Repositories 👨‍💻</h2>
