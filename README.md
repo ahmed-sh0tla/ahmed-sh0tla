@@ -57,9 +57,8 @@
 <h2 align="center">👨‍💻 Repositories 👨‍💻</h2>
 <br>
 <div width="100%" align="center">
-  <img height="115" src="https://cdn.pixabay.com/photo/2017/05/07/08/56/coffee-2292305_1280.jpg" alt="Cafe Image">
+  <img height="115" src="https://cdn.pixabay.com/photo/2017/02/16/19/06/coffee-2075690_1280.png" alt="Latte Illustration">
   <a href="https://github.com/ahmed-sh0tla/mycafesystem" title="mycafesystem">
-    <img height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=ahmed-sh0tla&repo=mycafesystem&theme=react&border_color=61dafb&border_radius=10">
   </a>
 </div>
 <br/><br/><br/><br/><br/><br/>
