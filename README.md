@@ -57,23 +57,11 @@
 <h2 align="center">👨‍💻 Repositories 👨‍💻</h2>
 <br>
 <div width="100%" align="center">
-  <!-- My cafe system repo card -->
-  <a href="https://github.com/ahmed-sh0tla/mycafesystem" title="MY cafe System">
-    <img height="115" src="https://cdn.pixabay.com/photo/2016/04/01/11/22/coffee-1300994_1280.png" alt="Cafe Icon">
-  </a>
-
-  <!-- Todolist repo card -->
-  <a href="https://github.com/ahmed-sh0tla/JS-form" title="Todolist">
-    <img height="115" src="https://cdn.pixabay.com/photo/2017/02/16/19/06/coffee-2075690_1280.png" alt="Todolist Icon">
-  </a>
-
-  <!-- Healthy Website repo card -->
-  <a href="https://github.com/ahmed-sh0tla/Healthy_Web" title="Healthy Website">
-    <img height="115" src="https://cdn.pixabay.com/photo/2016/11/19/17/16/coffee-1838633_1280.png" alt="Healthy Web Icon">
-  </a>
+  <a href="https://github.com/ahmed-sh0tla/mycafesystem" title="MY cafe System">MY Cafe System</a> | 
+  <a href="https://github.com/ahmed-sh0tla/JS-form" title="Todolist">Todolist</a> | 
+  <a href="https://github.com/ahmed-sh0tla/Healthy_Web" title="Healthy Website">Healthy Website</a>
 </div>
-<br/><br/><br/><br/><br/><br/>
-
+<br/><br/>
 <h4 align="center">
   <a href="https://github.com/ahmed-sh0tla?tab=repositories" title="Show Repositories">🔎 Show More 🔍</a>
 </h4>
