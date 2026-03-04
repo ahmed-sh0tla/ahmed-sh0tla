@@ -40,7 +40,7 @@
 <hr>
 <h2 align="center">🔥 Languages & Frameworks & Tools & Abilities 🔥</h2>
 <br>
-<div style="display: flex; justify-content: center; gap: 10px; flex-wrap: wrap; align-items: center;">
+<div style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap; align-items: center;">
   <img title="Python" height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
   <img title="JavaScript" height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
   <img title="HTML5" height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
