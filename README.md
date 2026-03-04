@@ -1,5 +1,3 @@
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=zumrudu-anka.zumrudu-anka">
-
 <h1 align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;This+is+Ahmed+Shatla....;Nice+to+meet+you!&center=true&size=30">
@@ -60,9 +58,8 @@
 <br>
 <div width="100%" align="center">
  <p align="left">
-  <a href="https://github.com/ahmed-sh0tla/mycafesystem" title="mycafesystem">
-    <img height="115" src="https://cdn.pixabay.com/photo/2017/05/07/08/56/coffee-2292305_1280.jpg" alt="Cafe Image">
-  </a>
+   <img height="115" src="https://cdn.pixabay.com/photo/2017/05/07/08/56/coffee-2292305_1280.jpg" alt="Cafe Image">
+  <a href="https://github.com/ahmed-sh0tla/mycafesystem" title="mycafesystem"></a>
 </p>
 </div>
 <br/><br/><br/><br/><br/><br/>
