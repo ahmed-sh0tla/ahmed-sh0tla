@@ -59,7 +59,7 @@
 <br>
 <div width="100%" align="center">
   <a href="https://github.com/ahmed-sh0tla/mycafesystem" title="MY cafe System">MY Cafe System</a> | 
-  <a href="https://ahmed-sh0tla.github.io/JS-form/" title="Todolist">LinkNest</a> | 
+  <a href="https://ahmed-sh0tla.github.io/JS-form/" title="Todolist">LinkNest</a> 
 </div>
 <br/><br/>
 <h4 align="center">
